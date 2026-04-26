@@ -31,7 +31,7 @@
     apiKey: "AIzaSyBJrHrjtHl2I5dKZPcE91VUi8hgoS-44ck",
     authDomain: "heartchat-dc348.firebaseapp.com",
     projectId: "heartchat-dc348",
-    storageBucket: "heartchat-dc348.firebasestorage.app",
+    storageBucket: "heartchat-dc348.appspot.com",
     messagingSenderId: "365939525614",
     appId: "1:365939525614:web:40e2aacf7b1256009e70ff",
     measurementId: "G-7RVG182R3P"
