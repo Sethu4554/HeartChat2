@@ -1,0 +1,18 @@
+{
+  "name": "HeartChat 💕",
+  "short_name": "HeartChat",
+  "description": "Where love speaks",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e91e8c",
+  "theme_color": "#e91e8c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23ff6b9d'/%3E%3Cstop offset='100%25' stop-color='%239c27b0'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' rx='112' fill='url(%23g)'/%3E%3Cpath d='M256 120 C170 120 100 178 100 250 C100 290 122 326 158 350 L148 400 L210 368 C225 372 240 374 256 374 C342 374 412 316 412 250 C412 178 342 120 256 120Z' fill='white'/%3E%3Cpath d='M256 215 C256 215 232 192 210 205 C195 214 193 233 206 247 L256 295 L306 247 C319 233 317 214 302 205 C280 192 256 215 256 215Z' fill='%23e91e8c'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
