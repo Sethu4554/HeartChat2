@@ -27,13 +27,14 @@
 //     }
 // ============================================================
 
-const firebaseConfig = {
-  apiKey: "PASTE_YOUR_API_KEY_HERE",
-  authDomain: "PASTE_YOUR_AUTH_DOMAIN_HERE",
-  projectId: "PASTE_YOUR_PROJECT_ID_HERE",
-  storageBucket: "PASTE_YOUR_STORAGE_BUCKET_HERE",
-  messagingSenderId: "PASTE_YOUR_MESSAGING_SENDER_ID_HERE",
-  appId: "PASTE_YOUR_APP_ID_HERE"
-};
+ const firebaseConfig = {
+    apiKey: "AIzaSyBJrHrjtHl2I5dKZPcE91VUi8hgoS-44ck",
+    authDomain: "heartchat-dc348.firebaseapp.com",
+    projectId: "heartchat-dc348",
+    storageBucket: "heartchat-dc348.firebasestorage.app",
+    messagingSenderId: "365939525614",
+    appId: "1:365939525614:web:40e2aacf7b1256009e70ff",
+    measurementId: "G-7RVG182R3P"
+  };
 
 export default firebaseConfig;
